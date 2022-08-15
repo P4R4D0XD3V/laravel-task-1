@@ -1,0 +1,7 @@
+.alert-custom{
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    transition: 400ms all;
+    z-index: 100000;
+}
